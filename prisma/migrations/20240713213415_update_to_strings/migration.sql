@@ -1,0 +1,5 @@
+-- AlterTable
+ALTER TABLE "Product" ALTER COLUMN "item_weight" SET DATA TYPE TEXT,
+ALTER COLUMN "item_length" SET DATA TYPE TEXT,
+ALTER COLUMN "item_height" SET DATA TYPE TEXT,
+ALTER COLUMN "item_width" SET DATA TYPE TEXT;
